@@ -15,3 +15,5 @@
 include:
   - board: nrfmicro_13
     shield: reviung41
+  - board: nrfmicro_13
+    shield: settings_reset
